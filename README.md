@@ -13,14 +13,11 @@ Automation Testing • Selenium • Playwright • API Testing • CI/CD • Lin
 
 ---
 
-# 👨‍💻 About Me
 
 
-<h2>👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
-<pre>
-<span style="color:#00FF41">
-
+```bash
 Name: Raja Kumar
 Role: QA Automation Engineer
 Focus: Web + API Automation
@@ -28,10 +25,6 @@ Frameworks: Selenium, Playwright
 CI/CD: GitHub Actions, Jenkins
 Environment: Linux / Docker
 Status: Actively building test automation systems
-
-</span>
-</pre>
-
 
 ---
 
