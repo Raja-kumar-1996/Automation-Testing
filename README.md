@@ -11,7 +11,9 @@ Automation Testing • Selenium • Playwright • API Testing • CI/CD • Lin
 </p>
 
 ---
+<h2>👨‍💻 About Me</h2>
 
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=1&pause=100000&color=00FF41&vCenter=true&width=900&lines=raja@qa-server:~$+whoami;Raja+Kumar;raja@qa-server:~$+role;QA+Automation+Engineer;raja@qa-server:~$+frameworks;Selenium+Playwright;raja@qa-server:~$+environment;Linux+Docker">
 ## 👨‍💻 About Me
 
 ```bash
