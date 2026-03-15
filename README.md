@@ -23,6 +23,7 @@ CI/CD: GitHub Actions, Jenkins
 Environment: Linux / Docker
 Status: Actively building test automation systems
 ```
+
 📊 Real-Time Testing Dashboard
 <p align="center"> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="750"> </p>
 Current Test Metrics
@@ -34,8 +35,7 @@ Skipped: 3
 
 Execution Time: 11m 20s
 Pipeline Status: SUCCESS
-
-
+Environment: Staging
 🤖 AI Test Case Generator
 
 Example AI generated test case:
@@ -54,12 +54,11 @@ Steps:
 Expected Result:
 User successfully logs into dashboard
 
-Future integration:
+Future integration
 
 • OpenAI test generation
 • NLP test creation
 • Automatic regression suite building
-Environment: Staging
 
 📈 Live CI/CD Pipeline
 Developer Commit
@@ -85,9 +84,7 @@ CI/CD Tools
 
 🧪 Test Coverage Heatmap
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=raja-kumar-1996&theme=github-compact"> </p>
-
 Coverage Metrics
-
 UI Test Coverage: 82%
 API Test Coverage: 88%
 Regression Coverage: 91%
@@ -109,10 +106,7 @@ Example run
 
 run-tests
 
-Output
-
 Initializing automation framework...
-
 Running regression tests...
 
 Total Tests: 120
@@ -121,10 +115,6 @@ Failed: 2
 
 Pipeline Status: SUCCESS
 🐧 Linux QA Command Line
-raja@qa-server:~$
-
-Example commands
-
 raja@qa-server:~$ git pull origin main
 
 raja@qa-server:~$ docker build -t automation-framework .
@@ -158,9 +148,9 @@ import { test, expect } from '@playwright/test'
 
 test('homepage', async ({ page }) => {
 
-await page.goto('https://example.com')
+  await page.goto('https://example.com')
 
-await expect(page).toHaveTitle(/Example/)
+  await expect(page).toHaveTitle(/Example/)
 
 })
 📊 GitHub Stats Dashboard
@@ -170,16 +160,14 @@ await expect(page).toHaveTitle(/Example/)
 🏆 GitHub Achievements
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=raja-kumar-1996&theme=matrix&no-frame=true"> </p>
 📂 Featured Automation Projects
-Selenium Automation Framework
 
+Selenium Automation Framework
 https://github.com/raja-kumar-1996/selenium-framework
 
 Playwright E2E Automation
-
 https://github.com/raja-kumar-1996/playwright-tests
 
 API Testing Framework
-
 https://github.com/raja-kumar-1996/api-automation
 
 👁 Visitor Counter
@@ -191,79 +179,3 @@ Test Coverage: 87%
 Build Status: PASS
 Deployment: SUCCESS
 Monitoring: ENABLED
-
----
-
-# 🎯 Now the About Me section will appear like a **green Linux terminal** on GitHub.
-
----
-
-💡 If you want, I can also give you **3 powerful upgrades used by senior QA engineers**:
-
-1️⃣ **Real-time Selenium test execution badge**  
-2️⃣ **CI/CD pipeline animation dashboard**  
-3️⃣ **Auto-generated test coverage chart**
-
-These make your **GitHub profile look like a professional SDET portfolio**.
-notworking green color for text
-
-The reason it’s not showing green is because GitHub decides the color automatically based on the theme and syntax highlighting. Even if you use bash, it may still appear white or black depending on the viewer’s theme. GitHub does not allow forcing text color with CSS in README.
-
-But there is a reliable workaround: use SVG text rendering, which GitHub supports and will always show green text.
-
-Below is the working About Me section that will appear green.
-
-Green Text About Me (Working Method)
-
-Add this to your README:
-
-<h2>👨‍💻 About Me</h2>
-
-<p align="left">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=1&pause=100000&color=00FF41&vCenter=true&width=800&lines=Name:+Raja+Kumar;Role:+QA+Automation+Engineer;Focus:+Web+%2B+API+Automation;Frameworks:+Selenium+%7C+Playwright;CI%2FCD:+GitHub+Actions+%7C+Jenkins;Environment:+Linux+%2F+Docker;Status:+Actively+building+test+automation+systems">
-</p>
-Result
-
-Your About Me text will appear in green like a terminal.
-
-Example lines will appear like:
-
-Name: Raja Kumar
-Role: QA Automation Engineer
-Focus: Web + API Automation
-Frameworks: Selenium | Playwright
-CI/CD: GitHub Actions | Jenkins
-Environment: Linux / Docker
-Status: Actively building test automation systems
-
-But rendered in neon green.
-
-Even Better (Real Linux Terminal Look)
-<h2>👨‍💻 About Me</h2>
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=1&pause=100000&color=00FF41&vCenter=true&width=900&lines=raja@qa-server:~$+whoami;Raja+Kumar;raja@qa-server:~$+role;QA+Automation+Engineer;raja@qa-server:~$+frameworks;Selenium+Playwright;raja@qa-server:~$+environment;Linux+Docker">
-
-This will look like a green Linux command terminal.
-
-✅ If you want, I can also give you a SUPER ADVANCED QA GitHub profile with:
-
-🧪 Live Selenium test execution badges
-
-📊 Dynamic automation test dashboard
-
-📈 CI/CD pipeline animation
-
-🖥 Interactive QA terminal
-
-🤖 AI test case generator panel
-
-It will make your GitHub profile look like a senior SDET portfolio used by FAANG engineers.
-
-bash
-Name: Raja Kumar
-Role: QA Automation Engineer
-Focus: Web + API Automation
-Frameworks: Selenium, Playwright
-CI/CD: GitHub Actions, Jenkins
-Environment: Linux / Docker
-Status: Actively building test automation systems is it correct i think i m not seeing where bash is ending
