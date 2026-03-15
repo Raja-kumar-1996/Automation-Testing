@@ -21,7 +21,7 @@ Focus: Web + API Automation
 Frameworks: Selenium, Playwright
 CI/CD: GitHub Actions, Jenkins
 Environment: Linux / Docker
-Status: Actively building test automation systems
+Status: Actively building test automation systems```
 
 📊 Real-Time Testing Dashboard
 <p align="center"> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="750"> </p>
