@@ -35,5 +35,4 @@ Skipped: 3
 Execution Time: 11m 20s
 Pipeline Status: SUCCESS
 Environment: Staging
-📊 Real-Time Testing Dashboard
-<p align="center"> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="750"> </p>
+
