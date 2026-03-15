@@ -1,4 +1,3 @@
-🚀 Next-Level QA Automation Engineer README
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">⚡ Raja Kumar | QA Automation Engineer</h1>
@@ -13,8 +12,6 @@ Automation Testing • Selenium • Playwright • API Testing • CI/CD • Lin
 
 ---
 
-
-
 ## 👨‍💻 About Me
 
 ```bash
@@ -25,20 +22,9 @@ Frameworks: Selenium, Playwright
 CI/CD: GitHub Actions, Jenkins
 Environment: Linux / Docker
 Status: Actively building test automation systems
-
----
-
-# 📊 Real-Time Testing Dashboard
-
-<p align="center">
-
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="750">
-
-</p>
-
-### Current Test Metrics
-
-
+📊 Real-Time Testing Dashboard
+<p align="center"> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="750"> </p>
+Current Test Metrics
 Test Suite: Regression
 Total Tests: 186
 Passed: 179
@@ -48,115 +34,79 @@ Skipped: 3
 Execution Time: 11m 20s
 Pipeline Status: SUCCESS
 Environment: Staging
-
-
----
-
-# 🤖 AI Test Case Generator
+🤖 AI Test Case Generator
 
 Example AI generated test case:
 
-
 Feature: Login System
-
 Test Case ID: TC_AI_104
 
 Scenario: User login validation
 
 Steps:
-
-Navigate to login page
-
-Enter valid username
-
-Enter password
-
-Click login
+1. Navigate to login page
+2. Enter valid username
+3. Enter password
+4. Click login
 
 Expected Result:
 User successfully logs into dashboard
 
-
 Future integration:
 
-• OpenAI test generation  
-• NLP test creation  
-• Automatic regression suite building  
+• OpenAI test generation
+• NLP test creation
+• Automatic regression suite building
 
----
-
-# 📈 Live CI/CD Pipeline
-
-
+📈 Live CI/CD Pipeline
 Developer Commit
-↓
+      ↓
 GitHub Actions
-↓
+      ↓
 Build Application
-↓
+      ↓
 Run Automation Tests
-↓
+      ↓
 Generate JUnit Reports
-↓
+      ↓
 Publish Test Results
-↓
+      ↓
 Deploy to Staging
 
+CI/CD Tools
 
-CI/CD Tools:
+• GitHub Actions
+• Jenkins
+• Docker
+• Kubernetes
 
-• GitHub Actions  
-• Jenkins  
-• Docker  
-• Kubernetes  
-
----
-
-# 🧪 Test Coverage Heatmap
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raja-kumar-1996&theme=github-compact">
-
-</p>
+🧪 Test Coverage Heatmap
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=raja-kumar-1996&theme=github-compact"> </p>
 
 Coverage Metrics
-
 
 UI Test Coverage: 82%
 API Test Coverage: 88%
 Regression Coverage: 91%
 
 Overall Automation Coverage: 87%
-
-
----
-
-# 🖥 Interactive QA Terminal
-
-
+🖥 Interactive QA Terminal
 qa-terminal
 
+Available commands
 
-Available commands:
+run-tests        → execute automation suite
+generate-report  → create test report
+coverage         → display coverage stats
+pipeline         → trigger CI/CD pipeline
+logs             → display execution logs
+clear            → clear terminal
 
-
-run-tests → execute automation suite
-generate-report → create test report
-coverage → display coverage stats
-pipeline → trigger CI/CD pipeline
-logs → display execution logs
-clear → clear terminal
-
-
-Example run:
-
+Example run
 
 run-tests
 
-
-Output:
-
+Output
 
 Initializing automation framework...
 
@@ -167,19 +117,11 @@ Passed: 118
 Failed: 2
 
 Pipeline Status: SUCCESS
-
-
----
-
-# 🐧 Linux QA Command Line
-
-
+🐧 Linux QA Command Line
 raja@qa-server:~$
 
+Example commands
 
-Example commands:
-
-```bash
 raja@qa-server:~$ git pull origin main
 
 raja@qa-server:~$ docker build -t automation-framework .
@@ -191,7 +133,6 @@ raja@qa-server:~$ pytest tests/
 =============================
 
 120 tests collected
-
 118 passed
 2 failed
 
@@ -247,3 +188,17 @@ Test Coverage: 87%
 Build Status: PASS
 Deployment: SUCCESS
 Monitoring: ENABLED
+
+---
+
+# 🎯 Now the About Me section will appear like a **green Linux terminal** on GitHub.
+
+---
+
+💡 If you want, I can also give you **3 powerful upgrades used by senior QA engineers**:
+
+1️⃣ **Real-time Selenium test execution badge**  
+2️⃣ **CI/CD pipeline animation dashboard**  
+3️⃣ **Auto-generated test coverage chart**
+
+These make your **GitHub profile look like a professional SDET portfolio**.
